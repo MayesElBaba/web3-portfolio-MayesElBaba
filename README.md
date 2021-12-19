@@ -1,1 +1,2 @@
-Push
+Ik heb probleem met de push van mijn documenten , hierdoor heb ik mijn eigen Repo aangemaakt en de portfolio code ingestoken
+de rest van de projecten lukt niet om te pushen omdat ze met react native aangemaakt zijn
